@@ -1,0 +1,45 @@
+body
+{
+background-color: rgb(247, 242, 242);
+}
+.left
+{
+    float: left;
+    margin-left: 150px;
+    margin-top: 150px;
+    
+
+}
+h1{
+    color:rgb(96, 96, 221);
+    font-size:50px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+
+    
+}
+h2{
+    font-size:30px;
+    margin-top: 0px;
+}
+.right
+{
+    float:right;
+    margin-right: 150px;
+    margin-top: 190px;
+
+}
+.form{
+    background-color: white;
+    padding:20px;
+    border-radius: 20px;
+    
+}
+input{
+    width: 250px;
+  margin-bottom: 10px;
+  height: 30px;
+  border-radius: 5px;
+  border:1px solid rgba(214, 223, 230, 0.986)
+  padding:2px 3px;
+}
